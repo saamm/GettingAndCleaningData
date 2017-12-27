@@ -1,12 +1,14 @@
 <h3>Code Book</h3>
 
-This code book summarizes the resulting data fields in tidy.txt.
+<p>This code book summarizes the resulting data fields in tidy.txt.</p>
 
-Identifiers
+<h3>Identifiers</h3>
+<ul>
+<li>subject - The ID of the test subject
+<li>activity - The type of activity performed when the corresponding measurements were taken
+</ul>
 
-subject - The ID of the test subject
-activity - The type of activity performed when the corresponding measurements were taken
-Measurements
+<h3>Measurements</h3>
 
 tBodyAccMeanX
 tBodyAccMeanY
